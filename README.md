@@ -1,14 +1,10 @@
 # Market Basket Analysis Apriori
 
-![image](https://user-images.githubusercontent.com/82377749/120182425-ab0cb700-c20e-11eb-83f3-3ad9a16c2490.png)
 
  ![image](https://user-images.githubusercontent.com/82377749/120182660-f757f700-c20e-11eb-862b-a07e918f0877.png)
  
 Image source: <a href="https://blogs.oracle.com/ai-and-datascience/post/overview-of-traditional-machine-learning-techniques"> oracle.com </a>  
  
- 
- 
-
 
 ## Introduction 
 For a long time, marketers are interested in product affinity (similarity of products); for example, coffee and tea are substitutes, so their demand is often negatively correlated. On the other hand, if two products complement each other, their demand is often positively correlated. Hence, price cuts for coffee will usually increase the demand for sugar but decrease tea demand. That is also why marketing specialists are interested in product affinity, as it offers useful information for designing marketing strategies. The market basket analysis offers valuable information to design their marketing strategies, e.g.:
@@ -47,6 +43,8 @@ However, This master thesis is not to be made available to the public. The infor
 ## Apriori algorithm
 
  ![image](https://user-images.githubusercontent.com/82377749/120184378-338c5700-c211-11eb-9d72-5aa8ec3874bc.png)
+ 
+ Image source: <a href="https://vuelitics.com/blog/how-do-you-create-a-market-basket-analysis-in-tableau/"> vuelitics.com </a>  
 
 
 Apriori and FP Growth are the most commonly used algorithms for market basket analysis. Both algorithms have weaknesses; the FP Growth algorithm takes less time than the Apriori algorithm. However, Apriori algorithm has been found better for the association, and it is less complicated and easier to execute. 
