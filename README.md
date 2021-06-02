@@ -14,7 +14,7 @@ For a long time, marketers are interested in product affinity (similarity of pro
 - Market basket analysis with time components is very useful for various marketers to choose
 cross-selling products.
 
-Market analysis provides a series of association rules by analyzing transaction data; these rules show which items are purchased together. Every association rule has an antecedent and a consequent; for example, “If a customer buys A, then he/she is likely to buy B”. In this case, A is the antecedent and B is the consequent. However, it is not easy to identify “good” association rules through a single indicator. Therefore, researchers have proposed several different indicators. The most common criteria for evaluating the strength of association rules are support, confidence and lift.
+Market basket analysis provides a series of association rules by analyzing transaction data; these rules show which items are purchased together. Every association rule has an antecedent and a consequent; for example, “If a customer buys A, then he/she is likely to buy B”. In this case, A is the antecedent and B is the consequent. However, it is not easy to identify “good” association rules through a single indicator. Therefore, researchers have proposed several different indicators. The most common criteria for evaluating the strength of association rules are support, confidence and lift.
 
 • Support: The proportion of transactions that contains specific items sets, therefore support for combination A, B is (N= total transactions):
 
