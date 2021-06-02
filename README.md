@@ -1,4 +1,4 @@
-# Market Basket Analysis Apriori
+# Market Basket Analysis (Apriori)
 
 
  ![image](https://user-images.githubusercontent.com/82377749/120182660-f757f700-c20e-11eb-862b-a07e918f0877.png)
