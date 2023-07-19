@@ -4,8 +4,6 @@
 
 Image source: <a href="https://shorturl.at/nrsM0"> medium.com </a>
 
-Image source: <a href="https://www.neenopal.com/RFM-analysis.html"> neenopal.com </a>
-
 
 ## Introduction 
 For a long time, marketers are interested in product affinity (similarity of products); for example, coffee and tea are substitutes, so their demand is often negatively correlated. On the other hand, if two products complement each other, their demand is often positively correlated. Hence, price cuts for coffee will usually increase the demand for sugar but decrease tea demand. That is also why marketing specialists are interested in product affinity, as it offers useful information for designing marketing strategies. The market basket analysis offers valuable information to design their marketing strategies, e.g.:
