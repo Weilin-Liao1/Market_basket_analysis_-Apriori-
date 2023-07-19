@@ -3,7 +3,7 @@
 
  ![image](https://user-images.githubusercontent.com/82377749/120182660-f757f700-c20e-11eb-862b-a07e918f0877.png)
  
-Image source: <a href="https://blogs.oracle.com/ai-and-datascience/post/overview-of-traditional-machine-learning-techniques"> oracle.com </a>  
+Image source: <a href="https://medium.com/@nandacoumar/market-basket-analysis-understand-you-customer-and-invest-effectively-c134acf46a46 ![image](https://github.com/Weilin-Liao1/Market_basket_analysis_apriori/assets/82377749/b0b56f32-d493-437e-920d-52cce7883e31)"> medium.com </a>  
  
 
 ## Introduction 
