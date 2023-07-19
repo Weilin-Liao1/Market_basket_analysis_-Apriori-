@@ -2,7 +2,9 @@
 
 <img width="350" alt="market basket" src="https://github.com/Weilin-Liao1/sql_projects/assets/82377749/40757125-3c44-46f3-a980-01e387e1761e">
 
-Image source: <a href=" https://medium.com/@nandacoumar/market-basket-analysis-understand-you-customer-and-invest-effectively-c134acf46a46"> medium.com </a>
+Image source: <a href="https://shorturl.at/nrsM0"> medium.com </a>
+
+Image source: <a href="https://www.neenopal.com/RFM-analysis.html"> neenopal.com </a>
 
 
 ## Introduction 
