@@ -2,7 +2,7 @@
 
 <img width="350" alt="market basket" src="https://github.com/Weilin-Liao1/sql_projects/assets/82377749/40757125-3c44-46f3-a980-01e387e1761e">
 
-Image source: <a href=" https://medium.com/@nandacoumar/market-basket-analysis-understand-you-customer-and-invest-effectively-c134acf46a46"> medium.com </a>    ![image](https://github.com/Weilin-Liao1/Market_basket_analysis_apriori/assets/82377749/05ab4a81-4b52-47d4-ad17-ad2a9d178f1b)
+Image source: <a href=" https://medium.com/@nandacoumar/market-basket-analysis-understand-you-customer-and-invest-effectively-c134acf46a46"> medium.com </a>
 
 
 ## Introduction 
